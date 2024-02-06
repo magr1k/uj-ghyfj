@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.wrap{
+    max-width: 500px;
+    padding: 50px 30px;
+    margin: 0 auto;
+    background-color: rgb(161, 205green, 149blue);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+
+.form{
+    padding: 20px;
+    border: 2px solid black;
+}
+
+.input_block{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+}
+
+.input2_block{
+    margin-bottom: 10px;
+}
+
+ladel{
+    margin-bottom: 7px;
+}
+
+.input{
+    padding: 5px;
+    border-radius: 8px;
+}
+
+.btn{
+    padding: 5px 20 px;
+    border-radius: 8px;
+    background-color: rgb(21, 85green, 64blue)
+    
+}
